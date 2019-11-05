@@ -7,7 +7,7 @@ package teste.concorrente;
 
 /**
  *
- * @author VJota
+ * @author VJota 
  */
 public class TesteConcorrente {
 
@@ -15,7 +15,7 @@ public class TesteConcorrente {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // é MELHOR SEM ISSO
     }
     
 }
